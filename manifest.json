@@ -1,0 +1,10 @@
+{
+  "domain": "energy_identification",
+  "name": "Energy Identification",
+  "version": "1.0",
+  "documentation": "https://github.com/G-030/energy_identification",
+  "dependencies": [],
+  "codeowners": ["G-030"],
+  "requirements": ["pandas", "scikit-learn"]
+}
+
